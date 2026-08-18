@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-latest-red.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Tests](https://img.shields.io/badge/tests-34%20passed-brightgreen.svg)
+
 # 📊 Sistema de Análise de Saúde Financeira Empresarial
 
 Uma aplicação web desenvolvida em Python com Streamlit para análise automatizada de saúde financeira de empresas a partir de Balanço Patrimonial e Demonstração do Resultado do Exercício (DRE).
